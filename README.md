@@ -4,3 +4,4 @@
 2. [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) plugin that autocompletes filenames.
 3. Set up GitHub Repo 
 ![image](assets/SetupRepo.png)
+4. Website Screenshots and Annotations - https://getfireshot.com/
