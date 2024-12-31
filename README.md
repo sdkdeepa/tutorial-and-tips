@@ -9,3 +9,6 @@
 6. OverAPI.com is a site collecting all the cheatsheets,all! -  https://overapi.com/ 
 7. Web Checklist - https://www.toptal.com/developers/webdevchecklist
 8. A tool to create stunning code images for presentations, blogs, or posts - https://ray.so/
+9. Responsive layouts - https://courses.kevinpowell.co/conquering-responsive-layouts
+10. Learn Responsive Design - https://web.dev/learn/design
+11. MDN - https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design
