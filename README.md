@@ -12,3 +12,4 @@
 9. Responsive layouts - https://courses.kevinpowell.co/conquering-responsive-layouts
 10. Learn Responsive Design - https://web.dev/learn/design
 11. MDN - https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design
+12. Color pallet - Download css for free - https://coolors.co/
