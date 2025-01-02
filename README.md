@@ -14,9 +14,9 @@
 11. MDN - https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design
 12. Color pallet - Download css for free - https://coolors.co/
 13. Flexbox:
-      * ![What the Flexbox?](https://flexbox.io/) - Wes Bos has created a brilliant free course to teach Flexbox box fundamentals.
-      * ![An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - Josh Comeau's fantastic interactive article helps you understand Flexbox.
-      * ![MDN: Basic concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) - This is another handy resource for getting you comfortable with Flexbox's basic concepts and features.
-      * ![Flexbox Froggy](https://flexboxfroggy.com/) - When you think you know your stuff, Flexbox Froggy is a fun game that tests your knowledge.
-      * ![Flexbox Zombies[(https://flexboxzombies.com/p/flexbox-zombies) - Another one for the gamers among you! This fun and comprehensive game will help you hone your Flexbox skills.
-14. ![Sass](https://sass-lang.com/) - The Sass superpowers.
+      * [What the Flexbox?](https://flexbox.io/) - Wes Bos has created a brilliant free course to teach Flexbox box fundamentals.
+      * [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - Josh Comeau's fantastic interactive article helps you understand Flexbox.
+      * [MDN: Basic concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) - This is another handy resource for getting you comfortable with Flexbox's basic concepts and features.
+      * [Flexbox Froggy](https://flexboxfroggy.com/) - When you think you know your stuff, Flexbox Froggy is a fun game that tests your knowledge.
+      * [Flexbox Zombies[(https://flexboxzombies.com/p/flexbox-zombies) - Another one for the gamers among you! This fun and comprehensive game will help you hone your Flexbox skills.
+14. [Sass](https://sass-lang.com/) - The Sass superpowers.
